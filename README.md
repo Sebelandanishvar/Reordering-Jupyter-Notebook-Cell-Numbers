@@ -1,4 +1,3 @@
-# Organise-your-Jupyter-Notebook
-Organise your Jupyter Notebook Cell Number
-In some cases, you may need to reorganize your Jupyter notebook cell number without running it again. It is normally not an easy task, but with this code, it is as easy as ABC.
-Enjoy it!
+# Reordering-Jupyter-Notebook-Cell-Numbers
+Reordering Jupyter Notebook Cell Numbers
+Sometimes, you may find the need to rearrange the numbering of cells in your Jupyter Notebook without actually executing them all over again. Typically, this can be a bit tricky, but with the following code snippet, it becomes as simple as counting to three. Give it a try and enjoy the convenience!
